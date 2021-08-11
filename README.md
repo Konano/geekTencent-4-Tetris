@@ -8,7 +8,7 @@
 
 要是跑太慢的话可以增加 `multi.py` 中的线程数量，或者减小 `tetris.cpp` 中的 `MAXLAYERPQSIZE` 和 `MAXBUCKETPQSIZE` 这两个变量。
 
-复盘：https://nano.ac/posts/9339a170/
+[复盘](https://nano.ac/posts/9339a170/)
 
 ## Usage
 
